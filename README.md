@@ -56,11 +56,9 @@ AI builder. Making tools I want to use.
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
 <div align="center">
-
-| | |
-|:---:|:---:|
-| [![ClawdOS](https://github-readme-stats.vercel.app/api/pin/?username=hasanator3000&repo=ClawdOS&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff)](https://github.com/hasanator3000/ClawdOS) | *more coming soon* |
-
+  <a href="https://github.com/hasanator3000/ClawdOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasanator3000&repo=ClawdOS&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
+  </a>
 </div>
 
 <br/>
